@@ -2,8 +2,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 ## Description
 
 A website that provides resources and tools to better your mental health. 
@@ -12,6 +10,7 @@ A website that provides resources and tools to better your mental health.
 
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
+  - [Technologies Used](#technologies-used)
   - [Presentation](#presentation)
   - [Installation](#installation)
   - [License](#license)
@@ -23,6 +22,10 @@ A website that provides resources and tools to better your mental health.
 
 Live Link deployed to [Heroku]()
 
+## Technologies Used
+
+React, Node.js, Express.js, GraphQL, MongoDB, Mongoose ODM, JavaScript, HTML, CSS, Bootstrap, Materialize.
+
 ## Presentation
 
 Google Slides [Link](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
@@ -32,8 +35,8 @@ Google Slides [Link](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmk
 Install React! 
 
 ```bash
-npx create-react-app <appname>
-cd <appname> 
+npx create-react-app my-app
+cd my-app 
 npm start
 ```
 
@@ -55,10 +58,10 @@ npm start
 
 Email us with your questions! 
 
-Sharee Osbourne<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Sharee Osbourne <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Brian Munoz<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Brian Munoz <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Ryan Lynn Rosas<a href="mailto:rltrosas88@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Ryan Lynn Rosas <a href="rltrosas88@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Dakota Nelson<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Dakota Nelson <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
