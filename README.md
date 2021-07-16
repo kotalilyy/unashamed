@@ -6,12 +6,13 @@
 
 ## Description
 
-A website that provides resources and tools to better your mental health. 
+A website that provides resources and tools to help you better your mental health. It has an inspirtational blog where users can sign in, add, edit and delete comments. Our website also offers reviews of local therapists in the area. We hope to des-stigmatize mental illness, connect people struggling to helpful resources, and encourage people to never be afraid to seek help. Never be afraid to better your mental health - be unashamed!
 
 ## Table of Contents
 
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
+  - [Technologies Used](#technologies-used)
   - [Presentation](#presentation)
   - [Installation](#installation)
   - [License](#license)
@@ -23,6 +24,10 @@ A website that provides resources and tools to better your mental health.
 
 Live Link deployed to [Heroku]()
 
+## Technologies Used
+
+[React](), [Node.js](), [Express.js](), [GraphQL](), [MongoDB](), [Mongoose ODM](), [JavaScript](), [HTML](), [CSS]().
+
 ## Presentation
 
 Google Slides [Link](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
@@ -32,8 +37,8 @@ Google Slides [Link](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmk
 Install React! 
 
 ```bash
-npx create-react-app <appname>
-cd <appname> 
+npx create-react-app my-app
+cd my-app 
 npm start
 ```
 
@@ -55,10 +60,12 @@ npm start
 
 Email us with your questions! 
 
-Sharee Osbourne<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Sharee Osbourne - selena74354@gmail.com 
 
-Brian Munoz<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Brian Munoz - brianemunoz@outlook.com
 
-Ryan Lynn Rosas<a href="rltrosas88@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Ryan Lynn Rosas - rltrosas88@gmail.com
 
-Dakota Nelson<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Dakota Nelson - kotalilyy@gmail.com
+
+_Happy Coding!_
