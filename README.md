@@ -2,9 +2,11 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 ## Description
 
-A website that provides resources and tools to better your mental health. 
+A website that provides resources and tools to help you better your mental health. It has an inspirtational blog where users can sign in, add, edit and delete comments. Our website also offers reviews of local therapists in the area. We hope to des-stigmatize mental illness, connect people struggling to helpful resources, and encourage people to never be afraid to seek help. Never be afraid to better your mental health - be unashamed!
 
 ## Table of Contents
 
@@ -24,7 +26,7 @@ Live Link deployed to [Heroku]()
 
 ## Technologies Used
 
-React, Node.js, Express.js, GraphQL, MongoDB, Mongoose ODM, JavaScript, HTML, CSS, 
+[React](), [Node.js](), [Express.js](), [GraphQL](), [MongoDB](), [Mongoose ODM](), [JavaScript](), [HTML](), [CSS]().
 
 ## Presentation
 
@@ -58,10 +60,12 @@ npm start
 
 Email us with your questions! 
 
-Sharee Osbourne <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Sharee Osbourne - selena74354@gmail.com 
 
-Brian Munoz <a href="mailto:brianemunoz@outlook.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Brian Munoz - brianemunoz@outlook.com
 
-Ryan Lynn Rosas <a href="rltrosas88@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Ryan Lynn Rosas - rltrosas88@gmail.com
 
-Dakota Nelson <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Dakota Nelson - kotalilyy@gmail.com
+
+_Happy Coding!_
