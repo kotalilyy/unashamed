@@ -19,7 +19,6 @@ A website that provides resources and tools to help you improve your mental heal
   - [Presentation](#presentation)
   - [Installation](#installation)
   - [License](#license)
-  - [Credits](#credits)
   - [Contributions](#contributions)
   - [Questions](#questions)
 
