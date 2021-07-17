@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotalilyy/bc-project3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotalilyy/bc-project3/issues"
   }
+
 }

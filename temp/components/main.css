@@ -13,21 +13,13 @@ main {
 }
 /*footer*/
 .page-footer {
-  position: relative;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
+  background-color: red;
   color: white;
   text-align: center;
-}
-
-.footerclass {
-  background-color: #eeeeee;
-  position: fixed;
-  top: auto;
-  bottom: 0;
-  width: 100%;
-  display: inline-block;
 }
 
 /*navbar*/
@@ -88,29 +80,4 @@ body.dark {
 
 .checkbox:checked + .label .ball {
   transform: translateX(24px);
-}
-
-/*make website responsive*/
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: rgb(236, 170, 241);
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  body {
-    background-color: rgb(247, 236, 247);
-  }
-}
-
-@media only screen and (min-width: 992px) {
-  body {
-    background-color: rgb(247, 236, 247);
-  }
-}
-
-@media only screen and (min-width: 1200px) {
-  body {
-    background-color: rgb(247, 236, 247);
-  }
 }
