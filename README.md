@@ -9,7 +9,7 @@
 
 ## Description
 
-A website that provides resources and tools to help you improve your mental health. It has an inspirational blog, where users can sign in, edit, and delete comments. We hope to des-stigmatize mental illness, connect people who may be struggling with helpful resources, and encourage people to seek help. Never be afraid to better your mental health - always remain unashamed!
+A website that provides resources and tools to help you improve your mental health. It has an inspirational blog, where users can sign in, edit, and delete comments. We hope to de-stigmatize mental illness, connect people who may be struggling with helpful resources, and encourage people to seek help. Never be afraid to better your mental health - always remain unashamed!
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Live Link deployed to [Heroku]()
 
 ## Technologies Used
 
-[React](), [Node.js](), [Express.js](), [GraphQL](), [MongoDB](), [Mongoose ODM](), [JavaScript](), [HTML](), [CSS]().
+[React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [GraphQL](https://graphql.org/), [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://mongoosejs.com/), [JavaScript](https://www.javascript.com/), [Bootstrap](https://getbootstrap.com/) [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [Materialize](https://materializecss.com/).
 
 ## Presentation
 
