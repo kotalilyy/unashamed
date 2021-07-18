@@ -9,7 +9,7 @@
 
 ## Description
 
-An inspirational blog about Mental Health. It provides a collection of resources for people seeking to improve their Mental Health. 
+An inspirational blog created to inspire people who are struggling with mental illness to seek help. It provides a collection of resources for people seeking to improve their Mental Health.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ An inspirational blog about Mental Health. It provides a collection of resources
 
 ## Live Link
 
-Live Link deployed to [Heroku]()
+[Live Link] deployed to Heroku.
 
 ## Technologies Used
 
@@ -32,7 +32,7 @@ Live Link deployed to [Heroku]()
 
 ## Presentation
 
-Google Slides [Link](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
 
 ## Installation
 
