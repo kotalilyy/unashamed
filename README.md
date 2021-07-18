@@ -9,7 +9,7 @@
 
 ## Description
 
-A website that provides resources and tools to help you improve your mental health. It has an inspirational blog, where users can sign in, edit, and delete comments. We hope to de-stigmatize mental illness, connect people who may be struggling with helpful resources, and encourage people to seek help. Never be afraid to better your mental health - always remain unashamed!
+An inspirational blog about Mental Health. It provides a collection of resources for people seeking to improve their Mental Health. 
 
 ## Table of Contents
 
