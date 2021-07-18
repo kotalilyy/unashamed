@@ -9,7 +9,7 @@
 
 ## Description
 
-An inspirational blog created to inspire people who are struggling with mental illness to seek help. It provides a collection of resources for people seeking to improve their Mental Health.
+An inspirational blog created to assure people who are struggling with mental illness to not be ashamed to ask for help. It provides a collection of resources for people seeking to improve their Mental Health.
 
 ## Table of Contents
 
