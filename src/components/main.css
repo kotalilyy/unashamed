@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   background-color: rgb(234, 238, 240);
   display: flex;
@@ -11,9 +10,10 @@ body {
 main {
   flex: 1 0 auto;
 }
+
 /*footer*/
 .page-footer {
-  position: fixed;
+  position: sticky;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -80,3 +80,29 @@ body.dark {
 .checkbox:checked + .label .ball {
   transform: translateX(24px);
 }
+
+/*make website responsive*/
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: rgb(236, 170, 241);
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    background-color: rgb(247, 236, 247);
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  body {
+    background-color: rgb(247, 236, 247);
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  body {
+    background-color: rgb(247, 236, 247);
+  }
+}
+
