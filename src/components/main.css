@@ -13,7 +13,7 @@ main {
 
 /*footer*/
 .page-footer {
-  position: sticky;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -90,7 +90,7 @@ body.dark {
 
 @media only screen and (min-width: 768px) {
   body {
-    background-color: rgb(247, 236, 247);
+    background-color: rgb(236, 170, 241);
   }
 }
 
