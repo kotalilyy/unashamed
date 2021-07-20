@@ -4,6 +4,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+![handshake](https://user-images.githubusercontent.com/77229281/126027509-98be26ec-e3ac-4cab-8575-4c39b9910030.png)
+
+
 ## Description
 
 A website that provides resources and tools to help you better your mental health. It has an inspirtational blog where users can sign in, add, edit and delete comments. Our website also offers reviews of local therapists in the area. We hope to des-stigmatize mental illness, connect people struggling to helpful resources, and encourage people to never be afraid to seek help. Never be afraid to better your mental health - be unashamed!
