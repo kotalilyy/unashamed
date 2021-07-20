@@ -4,12 +4,14 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Login from './components/Login/Login';
 import Preferences from "./components/Preferences/Preferences";
+import Home from "./pages/Home";
+import Resources from "./pages/Resources";
 
 function App() {
   const [token, setToken] = useState();
-  if(!token) {
-    return <Login setToken={setToken} />
-  }
+  //if(!token) {
+   // return <Login setToken={setToken} />
+  //}
 
   return (
     <div className="wrapper">
@@ -21,6 +23,12 @@ function App() {
           </Route>
           <Route path="/preferences">
             <Preferences />
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+          <Route path="/resources">
+            <Resources />
           </Route>
         </Switch>
       </BrowserRouter>

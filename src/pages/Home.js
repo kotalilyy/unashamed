@@ -1,16 +1,8 @@
 import React from "react";
-import Home from "./Home";
 
-
-var NewComponent = React.createClass({
-  render: function () {
+var Home =  function () {
     return (
       <div>
-        <meta charSet="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
-        <link rel="stylesheet" href="../components/main.css" />
-        <title>Unashamed</title>
         {/* nav bar with logo links and login option*/}
         <nav className="nav-wrapper indigo">
           <div className="container">
@@ -148,7 +140,7 @@ var NewComponent = React.createClass({
         {/*end footer */}
       </div>
     );
-  },
-});
+  }
+
 
 export default Home;
