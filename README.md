@@ -19,21 +19,20 @@ A website that provides resources and tools to help you better your mental healt
   - [Presentation](#presentation)
   - [Installation](#installation)
   - [License](#license)
-  - [Credits](#credits)
   - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Live Link
 
-Live Link deployed to [Heroku]()
+[Live Link] deployed to Heroku.
 
 ## Technologies Used
 
-[React](), [Node.js](), [Express.js](), [GraphQL](), [MongoDB](), [Mongoose ODM](), [JavaScript](), [HTML](), [CSS]().
+[React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [GraphQL](https://graphql.org/), [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://mongoosejs.com/), [JavaScript](https://www.javascript.com/), [Bootstrap](https://getbootstrap.com/) [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [Materialize](https://materializecss.com/).
 
 ## Presentation
 
-Google Slides [Link](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
 
 ## Installation
 
@@ -51,7 +50,7 @@ npm start
 
 ## Contributions
 
-[Sharee Osbourne](https://github.com/ShareeO)
+[Sharee Osborn](https://github.com/ShareeO)
 
 [Brian Munoz](https://github.com/BMunoz87)
 
@@ -63,7 +62,7 @@ npm start
 
 Email us with your questions! 
 
-Sharee Osbourne - selena74354@gmail.com 
+Sharee Osborn - selena74354@gmail.com 
 
 Brian Munoz - brianemunoz@outlook.com
 
