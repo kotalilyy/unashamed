@@ -5,12 +5,8 @@ var NewComponent = React.createClass({
   render: function () {
     return (
       <div>
-        <meta charSet="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
         <link rel="stylesheet" href="../components/main.css" />
         <title>Unashamed</title>
-        {/* nav bar with logo links and login option*/}
         <nav className="nav-wrapper indigo">
           <div className="container">
             <a href="#" className="brand-logo">
@@ -44,29 +40,10 @@ var NewComponent = React.createClass({
             <a href="#">Login</a>
           </li>
         </ul>
-        {/* end nav*/}
-        {/* begin dark mode feature */}
-        <div>
-          <input type="checkbox" className="checkbox" id="chk" />
-          <label className="label" htmlFor="chk">
-            <i className="fas fa-moon" />
-            <i className="fas fa-sun" />
-            <div className="ball" />
-          </label>
-        </div>
-        {/* end dark mode feature */}
-        <center>
-          <p>
-            {" "}
-            <img src="./images/stopbullies.png" />
-          </p>
-        </center>
-        {/* login will go here*/}
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
         />
-        {/* begin footer */}
         <footer className="page-footer indigo">
           <div className="container">
             <div className="row">
@@ -146,7 +123,6 @@ var NewComponent = React.createClass({
             </div>
           </div>
         </footer>
-        {/*end footer */}
       </div>
     );
   },
