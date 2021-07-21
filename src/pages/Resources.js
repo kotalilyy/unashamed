@@ -1,5 +1,4 @@
 import React from "react";
-import Resources from "./Resources";
 
 var NewComponent = React.createClass({
   render: function () {
@@ -55,19 +54,26 @@ var NewComponent = React.createClass({
                 <div>
                   <div>
                     <a href="http://www.mhresources.org/" target="">Mental Health Resources (MHR)</a> 
-                    <p>This is a nonprofit that provides community-based mental health services to adults, especially those suffering medical, social or substance-related comorbidities.</p>
+                    <p>This is a nonprofit that provides community-based mental health services to adults, especially those suffering medical, 
+                        social or substance-related comorbidities.</p>
                   </div>
                   <div>
                     <a href="https://www.nami.org/Home" target="">National Alliance on Mental Illness (NAMI)</a>
-                    <p>This is a mental health advocacy organization with state organizations, affiliates and volunteers. It is a hub for support groups, free education, raising awareness and building community.</p>
+                    <p>This is a mental health advocacy organization with state organizations, affiliates and volunteers. It is a hub for support groups, 
+                        free education, raising awareness and building community.</p>
                   </div>
                   <div>
                     <a href="https://www.who.int/" target="">World Health Organization (WHO) - Project Atlas</a>
-                    <p>This compiles resources and information about mental health and neurology policies, prevalence, statistics, medicines, professionals, information systems and publications. Topics covered include mental health in emergencies, maternal and child mental health, neurology and public health, disorders management and suicide prevention. Information can be searched by region, country or worldwide.</p>
+                    <p>This compiles resources and information about mental health and neurology policies, prevalence, statistics, medicines, professionals, 
+                        information systems and publications. Topics covered include mental health in emergencies, maternal and child mental health, 
+                        neurology and public health, disorders management and suicide prevention. Information can be searched by region, country or worldwide.</p>
                   </div>
                   <div>
                     <a href="https://www.hhs.gov/" target="">U.S. Department of Health & Human Services -- Mental Health</a>
-                    <p>This is run by the U.S. Department of Health and Human Services and provides government information about mental health taken from the Centers for Disease Control, National Institutes of Health, National Institute of Mental Health, Medline Plus, FindYouthInfo.gov and Substance Abuse and Mental Health Services Administration. The information is for the general public health care providers, policy makers, schools and communities.</p>
+                    <p>This is run by the U.S. Department of Health and Human Services and provides government information about mental health taken from 
+                        the Centers for Disease Control, National Institutes of Health, National Institute of Mental Health, Medline Plus, FindYouthInfo.gov and 
+                        Substance Abuse and Mental Health Services Administration. The information is for the general public health care providers, policy makers, 
+                        schools and communities.</p>
                   </div>
                   <div>
                     <a href="http://www.freedomfromfear.org/" target="">Freedom from Fear</a>
@@ -75,7 +81,49 @@ var NewComponent = React.createClass({
                   </div>
                   <div>
                     <a href="https://www.autismspeaks.org/" target="">Autism Speaks</a> 
-                    <p>This website is an autism research and advocacy organization that contains links to apps, tools kits and a resource guide for families and individuals with autism autism spectrum disorders.</p>
+                    <p>This website is an autism research and advocacy organization that contains links to apps, tools kits and a resource guide for families and 
+                        individuals with autism autism spectrum disorders.</p>
+                  </div>
+                  <div>
+                    <a href="http://www.glbtnationalhelpcenter.org/" target="">LGBT National Help Center</a>
+                    <p>The LGBT National Help Center provides an online peer-support chat as well as free, confidential counseling over the phone for the GLBT community.</p>
+                  </div>
+                  <div>
+                    <a href="https://screening.mentalhealthscreening.org/Military_NDSD" target="">MindWise — Military and Family Screenings</a>
+                    <p>Military Pathways is a site created by Screening for Mental Health and the Department of Defense that allows military members and 
+                        their families to take free, anonymous mental health or alcohol self-assessments. Completion of the assessment directs users to 
+                        referral information for Department of Defense and Veterans Affairs services.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.minorityhealth.hhs.gov/" target="">U.S. Department of Health & Human Services — Office of Minority Health</a>
+                    <p>The U.S. Department of Health and Human Services Office of Minority Health website provides statistics, news and treatment information.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.nia.nih.gov/health" target="">National Institute on Aging — Health Information</a>
+                    <p>The National Institutes of Health provides this online index of information, videos and training tools about senior health, 
+                        including mental health and wellness.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.womenshealth.gov/mental-health/resources/" target="">Office on Women’s Health — Mental Health Resources </a>
+                    <p>The Office on Women’s Health of the U.S. Department of Health and Human Services provides access to research, publications, 
+                        Surgeon General Reports and general information for women’s mental health issues. This includes problems related to pregnancy and conception, 
+                        menstruation, menopause, women veterans, suicide prevention and mental illnesses.</p>
+                  </div>
+                  <div>
+                    <a href="http://www.jedfoundation.org/" target="">The Jed Foundation</a>
+                    <p>The Jed Foundation is an organization committed to the mental and emotional health of college students and preventing suicide among this population. 
+                        The foundation runs several free online self-assessment and resource programs for students and campuses. It offers training tools for 
+                        campus professionals to improve their mental health services for students.</p>
+                  </div>
+                  <div>
+                    <a href="https://youth.gov/youth-topics/youth-mental-health" target="">U.S. Government — Youth Mental Health</a>
+                    <p>This is a hub of government information about youth mental health issues, including substance abuse, LGBT issues, bullying and homelessness.</p>
+                  </div>
+                  <div>
+                    <a href="http://www.adaa.org/living-with-anxiety/ask-and-learn/resources" target="">Anxiety and Depression Association of America (ADAA) – Online Resources</a>
+                    <p>The Anxiety and Depression Association of America raises public and professional awareness, promotes research advancement and 
+                        provides referrals for children and adults with anxiety, depression, obsessive-compulsive disorder, post-traumatic stress disorders and 
+                        related disorders. The website provides information about these conditions, their treatment and resources for professionals.</p>
                   </div>
                 </div>
               </section>
@@ -101,23 +149,23 @@ var NewComponent = React.createClass({
                   <p>Call 1-800-273-8255 and press 1 or text to 838255 for confidential help for veterans and their families.</p>
                 </div>
                 <div>
-                  <a href="" target="">Crisis Text Line</a>
+                  <a href="https://www.crisistextline.org/" target="">Crisis Text Line</a>
                   <p>Text “HELLO” to 741741 Text HOME to 741741 to connect with a Crisis Counselor</p>
                 </div>
                 <div>
-                  <a href="" target="">LGBT National Hotline</a>
+                  <a href="https://www.glbthotline.org/national-hotline.html" target="">LGBT National Hotline</a>
                   <p>1-888-843-4564</p>
                 </div>
                 <div>
-                  <a href="" target="">National Eating Disorders Association (NEDA) </a>
+                  <a href="https://www.nationaleatingdisorders.org/" target="">National Eating Disorders Association (NEDA) </a>
                   <p>Helpline 1-800-931-2237 </p>
                 </div>
                 <div>
-                  <a href="" target="">SAMHSA Disaster Distress Helpline</a>
+                  <a href="https://www.samhsa.gov/find-help/disaster-distress-helpline" target="">SAMHSA Disaster Distress Helpline</a>
                   <p>1-800-985-5990 or Text "TalkWithUs" to 66746 </p>
                 </div>
                 <div>
-                  <a href="" target="">Childhelp National Child Abuse Hotline</a>
+                  <a href="https://www.childhelp.org/hotline/" target="">Childhelp National Child Abuse Hotline</a>
                   <p>1-800-4-A-Child or 1-800-422-4453 </p>
                 </div>
               </section>
@@ -215,4 +263,5 @@ var NewComponent = React.createClass({
     );
   },
 });
- export default Resources;
+ 
+export default Resources;
