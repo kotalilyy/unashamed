@@ -51,7 +51,7 @@ npm start
 
 ## Contributions
 
-[Sharee Osbourne](https://github.com/ShareeO)
+[Sharee Osborn](https://github.com/ShareeO)
 
 [Brian Munoz](https://github.com/BMunoz87)
 
@@ -63,7 +63,7 @@ npm start
 
 Email us with your questions! 
 
-Sharee Osbourne - selena74354@gmail.com 
+Sharee Osborn - selena74354@gmail.com 
 
 Brian Munoz - brianemunoz@outlook.com
 
