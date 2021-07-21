@@ -72,30 +72,56 @@ var NewComponent = React.createClass({
           <div className="col s12 m5">
             <div className="card-panel deep-purple lighten-4">
               <span className="black-text">
-                <div class="R-MHR">
-                  <h2>Mental Health Resources (MHR)</h2> 
-                  <p>This is a nonprofit that provides community-based mental health services to adults, especially those suffering medical, social or substance-related comorbidities.</p>
+              <section class="resources">
+                <div>
+                  <div>
+                    <a href="http://www.mhresources.org/" target="">Mental Health Resources (MHR)</a> 
+                    <p>This is a nonprofit that provides community-based mental health services to adults, especially those suffering medical, social or substance-related comorbidities.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.nami.org/Home" target="">National Alliance on Mental Illness (NAMI)</a>
+                    <p>This is a mental health advocacy organization with state organizations, affiliates and volunteers. It is a hub for support groups, free education, raising awareness and building community.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.who.int/" target="">World Health Organization (WHO) - Project Atlas</a>
+                    <p>This compiles resources and information about mental health and neurology policies, prevalence, statistics, medicines, professionals, information systems and publications. Topics covered include mental health in emergencies, maternal and child mental health, neurology and public health, disorders management and suicide prevention. Information can be searched by region, country or worldwide.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.hhs.gov/" target="">U.S. Department of Health & Human Services -- Mental Health</a>
+                    <p>This is run by the U.S. Department of Health and Human Services and provides government information about mental health taken from the Centers for Disease Control, National Institutes of Health, National Institute of Mental Health, Medline Plus, FindYouthInfo.gov and Substance Abuse and Mental Health Services Administration. The information is for the general public health care providers, policy makers, schools and communities.</p>
+                  </div>
+                  <div>
+                    <a href="http://www.freedomfromfear.org/" target="">Freedom from Fear</a>
+                    <p>This is a nonprofit advocacy organization that contains research-based information and treatment referrals for anxiety and depression.</p>
+                  </div>
+                  <div>
+                    <a href="https://www.autismspeaks.org/" target="">Autism Speaks</a> 
+                    <p>This website is an autism research and advocacy organization that contains links to apps, tools kits and a resource guide for families and individuals with autism autism spectrum disorders.</p>
+                  </div>
                 </div>
-                <div class="R-NAMI">
-                  <h2>National Alliance on Mental Illness (NAMI)</h2>
-                  <p>This is a mental health advocacy organization with state organizations, affiliates and volunteers. It is a hub for support groups, free education, raising awareness and building community.</p>
+              </section>
+              <section class="hotlines">
+                <div>
+                  <a href="https://www.safehorizon.org/" target="">Safe Horizon</a>
+                  <p>For domestic violence victims, sexual assault victims and crime victims to receive 24/7 free crisis counseling and safety planning.</p>
                 </div>
-                <div class="R-WHO">
-                  <h2>World Health Organization (WHO) - Project Atlas</h2>
-                  <p>This compiles resources and information about mental health and neurology policies, prevalence, statistics, medicines, professionals, information systems and publications. Topics covered include mental health in emergencies, maternal and child mental health, neurology and public health, disorders management and suicide prevention. Information can be searched by region, country or worldwide.</p>
+                <div>
+                  <a href="https://suicidepreventionlifeline.org/" target="">National Suicide Prevention Lifeline</a>
+                  <p>Call 1-800-273-TALK to receive confidential, toll-free, 24/7 suicide prevention counseling and local referrals.</p>
                 </div>
-                <div class="R-USDOH">
-                  <h2>U.S. Department of Health & Human Services -- Mental Health</h2>
-                  <p>This is run by the U.S. Department of Health and Human Services and provides government information about mental health taken from the Centers for Disease Control, National Institutes of Health, National Institute of Mental Health, Medline Plus, FindYouthInfo.gov and Substance Abuse and Mental Health Services Administration. The information is for the general public health care providers, policy makers, schools and communities.</p>
+                <div>
+                  <a href="https://teenhealthandwellness.com/" target="">Teen Health & Wellness</a>
+                  <p>A list of hotlines for teens facing issues ranging from bullying and abuse to drugs and eating disorders.</p>
                 </div>
-                <div class="R-FFF">
-                  <h2>Freedom from Fear</h2>
-                  <p>This is a nonprofit advocacy organization that contains research-based information and treatment referrals for anxiety and depression.</p>
+                <div>
+                  <a href="https://www.thehotline.org/" target="">National Domestic Violence Hotline</a>
+                  <p>Call 1-800-799-SAFE for 24/7 counseling and support to victims of domestic violence and abuse.</p>
                 </div>
-                <div class="R-AS">
-                  <h2>Autism Speaks</h2> 
-                  <p>This website is an autism research and advocacy organization that contains links to apps, tools kits and a resource guide for families and individuals with autism autism spectrum disorders.</p>
+                <div>
+                  <a href="https://www.veteranscrisisline.net/" target="">Veterans Crisis Line</a>
+                  <p>Call 1-800-273-8255 for confidential help for veterans and their families.</p>
                 </div>
+              </section>
               </span>
             </div>
           </div>
