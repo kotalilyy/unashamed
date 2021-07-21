@@ -46,27 +46,6 @@ var NewComponent = React.createClass({
         </ul>
         {/* end nav*/}
 
-        {/* begin card with resource numbers*/}
-        <div className="row">
-          <div className="col s12 m5">
-            <div className="card-panel deep-purple lighten-4">
-              <span className="black-text">
-                Here is a list of Crisis hotline numbers that we have compiled
-                for you! National Suicide Prevention Lifeline Call
-                1-800-273-TALK (8255); En español 1-888-628-9454 Veterans Crisis
-                Line Call 1-800-273-TALK (8255) and press 1 or text to 838255
-                Crisis Text Line Text “HELLO” to 741741 Text HOME to 741741 to
-                connect with a Crisis Counselor SAMHSA National Helpline
-                1-800-662-HELP (4357) Childhelp National Child Abuse Hotline
-                1-800-4-A-Child or 1-800-422-4453 SAMHSA Disaster Distress
-                Helpline 1-800-985-5990 or Text "TalkWithUs" to 66746 National
-                Eating Disorders Association (NEDA) Helpline 1-800-931-2237 LGBT
-                National Hotline 1-888-843-4564
-              </span>
-            </div>
-          </div>
-        </div>
-        {/* end card with resource numbers*/}
         {/* begin card with resources information*/}
         <div className="row">
           <div className="col s12 m5">
@@ -107,7 +86,7 @@ var NewComponent = React.createClass({
                 </div>
                 <div>
                   <a href="https://suicidepreventionlifeline.org/" target="">National Suicide Prevention Lifeline</a>
-                  <p>Call 1-800-273-TALK to receive confidential, toll-free, 24/7 suicide prevention counseling and local referrals.</p>
+                  <p>Call 1-800-273-TALK to receive confidential, toll-free, 24/7 suicide prevention counseling and local referrals. En español 1-888-628-9454</p>
                 </div>
                 <div>
                   <a href="https://teenhealthandwellness.com/" target="">Teen Health & Wellness</a>
@@ -119,7 +98,27 @@ var NewComponent = React.createClass({
                 </div>
                 <div>
                   <a href="https://www.veteranscrisisline.net/" target="">Veterans Crisis Line</a>
-                  <p>Call 1-800-273-8255 for confidential help for veterans and their families.</p>
+                  <p>Call 1-800-273-8255 and press 1 or text to 838255 for confidential help for veterans and their families.</p>
+                </div>
+                <div>
+                  <a href="" target="">Crisis Text Line</a>
+                  <p>Text “HELLO” to 741741 Text HOME to 741741 to connect with a Crisis Counselor</p>
+                </div>
+                <div>
+                  <a href="" target="">LGBT National Hotline</a>
+                  <p>1-888-843-4564</p>
+                </div>
+                <div>
+                  <a href="" target="">National Eating Disorders Association (NEDA) </a>
+                  <p>Helpline 1-800-931-2237 </p>
+                </div>
+                <div>
+                  <a href="" target="">SAMHSA Disaster Distress Helpline</a>
+                  <p>1-800-985-5990 or Text "TalkWithUs" to 66746 </p>
+                </div>
+                <div>
+                  <a href="" target="">Childhelp National Child Abuse Hotline</a>
+                  <p>1-800-4-A-Child or 1-800-422-4453 </p>
                 </div>
               </section>
               </span>
