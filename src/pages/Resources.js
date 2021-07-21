@@ -45,16 +45,7 @@ var NewComponent = React.createClass({
           </li>
         </ul>
         {/* end nav*/}
-        {/* begin dark mode feature */}
-        <div>
-          <input type="checkbox" className="checkbox" id="chk" />
-          <label className="label" htmlFor="chk">
-            <i className="fas fa-moon" />
-            <i className="fas fa-sun" />
-            <div className="ball" />
-          </label>
-        </div>
-        {/* end dark mode feature */}
+
         {/* begin card with resource numbers*/}
         <div className="row">
           <div className="col s12 m5">
