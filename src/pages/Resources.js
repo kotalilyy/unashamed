@@ -67,6 +67,40 @@ var NewComponent = React.createClass({
           </div>
         </div>
         {/* end card with resource numbers*/}
+        {/* begin card with resources information*/}
+        <div className="row">
+          <div className="col s12 m5">
+            <div className="card-panel deep-purple lighten-4">
+              <span className="black-text">
+                <div class="R-MHR">
+                  <h2>Mental Health Resources (MHR)</h2> 
+                  <p>This is a nonprofit that provides community-based mental health services to adults, especially those suffering medical, social or substance-related comorbidities.</p>
+                </div>
+                <div class="R-NAMI">
+                  <h2>National Alliance on Mental Illness (NAMI)</h2>
+                  <p>This is a mental health advocacy organization with state organizations, affiliates and volunteers. It is a hub for support groups, free education, raising awareness and building community.</p>
+                </div>
+                <div class="R-WHO">
+                  <h2>World Health Organization (WHO) - Project Atlas</h2>
+                  <p>This compiles resources and information about mental health and neurology policies, prevalence, statistics, medicines, professionals, information systems and publications. Topics covered include mental health in emergencies, maternal and child mental health, neurology and public health, disorders management and suicide prevention. Information can be searched by region, country or worldwide.</p>
+                </div>
+                <div class="R-USDOH">
+                  <h2>U.S. Department of Health & Human Services -- Mental Health</h2>
+                  <p>This is run by the U.S. Department of Health and Human Services and provides government information about mental health taken from the Centers for Disease Control, National Institutes of Health, National Institute of Mental Health, Medline Plus, FindYouthInfo.gov and Substance Abuse and Mental Health Services Administration. The information is for the general public health care providers, policy makers, schools and communities.</p>
+                </div>
+                <div class="R-FFF">
+                  <h2>Freedom from Fear</h2>
+                  <p>This is a nonprofit advocacy organization that contains research-based information and treatment referrals for anxiety and depression.</p>
+                </div>
+                <div class="R-AS">
+                  <h2>Autism Speaks</h2> 
+                  <p>This website is an autism research and advocacy organization that contains links to apps, tools kits and a resource guide for families and individuals with autism autism spectrum disorders.</p>
+                </div>
+              </span>
+            </div>
+          </div>
+        </div>
+        {/* end card with resources information*/}
         {/* begin footer */}
         <footer className="page-footer indigo">
           <div className="container">
