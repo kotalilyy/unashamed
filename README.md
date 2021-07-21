@@ -24,7 +24,7 @@ An inspirational blog created to assure people who are struggling with mental il
 
 ## Live Link
 
-[Live Link] deployed to Heroku.
+[Live Link](https://unashamed1.herokuapp.com/) deployed to Heroku.
 
 ## Technologies Used
 
