@@ -50,7 +50,7 @@ var NewComponent = React.createClass({
           <div className="col s12 m5">
             <div className="card-panel deep-purple lighten-4">
               <span className="black-text">
-              <section class="resources">
+              <section className="resources">
                 <div>
                   <div>
                     <a href="http://www.mhresources.org/" target="">Mental Health Resources (MHR)</a> 
@@ -127,7 +127,7 @@ var NewComponent = React.createClass({
                   </div>
                 </div>
               </section>
-              <section class="hotlines">
+              <section className="hotlines">
                 <div>
                   <a href="https://www.safehorizon.org/" target="">Safe Horizon</a>
                   <p>For domestic violence victims, sexual assault victims and crime victims to receive 24/7 free crisis counseling and safety planning.</p>
