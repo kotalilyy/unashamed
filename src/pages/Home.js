@@ -39,10 +39,6 @@ var Home = function () {
       <center>
         <img src="./images/blog1.png" width="50%" height="50%" />
       </center>
-      <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
-      />
       <footer className="page-footer indigo">
         <div className="container">
           <div className="row">
@@ -102,6 +98,15 @@ var Home = function () {
                     Stop Violence Against Women
                   </a>
                 </li>
+                <li>
+                  <a
+                    className="grey-text text-lighten-3"
+                    href="https://www.tethr.men/"
+                    target="_blank"
+                  >
+                    Support Community for Men
+                  </a>
+                </li>
                 <lil>
                   <a
                     className="grey-text text-lighten-3"
@@ -122,6 +127,11 @@ var Home = function () {
           </div>
         </div>
       </footer>
+      {/*end footer */}
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+      />
     </div>
   );
 };
