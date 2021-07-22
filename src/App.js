@@ -18,17 +18,18 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route path="/dashboard">
-            <Dashboard />
+           <Dashboard />
           </Route>
           <Route path="/preferences">
             <Preferences />
           </Route>
-          <Route path="/">
-            <Home />
-          </Route>
           <Route path="/resources">
             <Resources />
           </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        
         </Switch>
       </BrowserRouter>
     </div>

@@ -14,7 +14,7 @@ var Home = function () {
           </a>
           <ul className="right hide-on-med-and-down">
             <li>
-              <a href="./index">Home</a>
+              <a href="./">Home</a>
             </li>
             <li>
               <a href="./resources">Resources</a>
