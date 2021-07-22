@@ -24,7 +24,7 @@ var Resources = function () {
               <a href="./login">Login</a>
             </li>
           </ul>
-        </div>
+          </div>
       </nav>
       {/* begin card with resources information*/}
       <div className="row">
@@ -317,6 +317,7 @@ var Resources = function () {
             </span>
           </div>
         </div>
+      
         {/* begin footer */}
         <footer className="page-footer indigo">
           <div className="container">
@@ -389,74 +390,7 @@ var Resources = function () {
                 </ul>
               </div>
             </div>
-            <div className="col l4 offset-l2 s12">
-              <ul>
-                <li>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://www.helpguide.org/"
-                    target="_blank"
-                  >
-                    Help Guide
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://www.betterhelp.com/"
-                    target="_blank"
-                  >
-                    Find Counseling
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://suicidepreventionlifeline.org/"
-                    target="_blank"
-                  >
-                    Suicide Prevention Lifeline
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://www.cdc.gov/injury/features/stop-bullying/index.html"
-                    target="_blank"
-                  >
-                    #StopBullying
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://www.stopvaw.org/"
-                    target="_blank"
-                  >
-                    Stop Violence Against Women
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://www.tethr.men/"
-                    target="_blank"
-                  >
-                    Support Community for Men
-                  </a>
-                </li>
-                <lil>
-                  <a
-                    className="grey-text text-lighten-3"
-                    href="https://www.thehotline.org/"
-                    target="_blank"
-                  >
-                    Domestic Abuse Support{" "}
-                  </a>
-                </lil>
-              </ul>
-            </div>
-          </div>
+        </div>
         </footer>
         {/*end footer */}
         <link

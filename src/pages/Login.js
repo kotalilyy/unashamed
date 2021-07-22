@@ -28,17 +28,8 @@ var Login = function () {
         </div>
       </nav>
       <h1>Login will go here</h1>
-      <ul className="sidenav" id="mobile-links">
-        <li>
-          <a href="#">Home</a>
-        </li>
-        <li>
-          <a href="#">Resources</a>
-        </li>
-        <li>
-          <a href="#">Login</a>
-        </li>
-      </ul>
+     
+   
       <footer className="page-footer indigo">
         <div className="container">
           <div className="row">
