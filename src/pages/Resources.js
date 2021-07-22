@@ -163,7 +163,7 @@ var Resources = function () {
                   <div>
                     <a
                       href="https://www.womenshealth.gov/mental-health/resources/"
-                      target=""
+                      target="_blank"
                     >
                       Office on Women’s Health — Mental Health Resources{" "}
                     </a>
@@ -194,7 +194,7 @@ var Resources = function () {
                   <div>
                     <a
                       href="https://youth.gov/youth-topics/youth-mental-health"
-                      target=""
+                      target="_blank"
                     >
                       U.S. Government — Youth Mental Health
                     </a>
@@ -207,7 +207,7 @@ var Resources = function () {
                   <div>
                     <a
                       href="http://www.adaa.org/living-with-anxiety/ask-and-learn/resources"
-                      target=""
+                      target="_blank"
                     >
                       Anxiety and Depression Association of America (ADAA) –
                       Online Resources

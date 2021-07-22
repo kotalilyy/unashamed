@@ -11,7 +11,7 @@ var Login = function () {
             <img src="./images/handshake.png" width="41px" height="41px" />
             Unashamed
           </a>
-          <a href="#" className="sidenav-trigger" data-target="mobile-links">
+          <a href="/" className="sidenav-trigger" data-target="mobile-links">
             <i className="material-icons">menu</i>
           </a>
           <ul className="right hide-on-med-and-down">
