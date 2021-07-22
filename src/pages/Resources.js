@@ -183,6 +183,7 @@ var Resources = React.createClass({
                       className="grey-text text-lighten-3"
                       href="https://www.helpguide.org/"
                       target="_blank"
+                      ref="noreferrer"
                     >
                       Help Guide
                     </a>
@@ -192,6 +193,7 @@ var Resources = React.createClass({
                       className="grey-text text-lighten-3"
                       href="https://www.betterhelp.com/"
                       target="_blank"
+                      ref="noreferrer"
                     >
                       Find Counseling
                     </a>
@@ -201,6 +203,7 @@ var Resources = React.createClass({
                       className="grey-text text-lighten-3"
                       href="https://suicidepreventionlifeline.org/"
                       target="_blank"
+                      ref="noreferrer"
                     >
                       Suicide Prevention Lifeline
                     </a>
@@ -210,6 +213,7 @@ var Resources = React.createClass({
                       className="grey-text text-lighten-3"
                       href="https://www.cdc.gov/injury/features/stop-bullying/index.html"
                       target="_blank"
+                      ref="noreferrer"
                     >
                       #StopBullying
                     </a>
@@ -219,6 +223,7 @@ var Resources = React.createClass({
                       className="grey-text text-lighten-3"
                       href="https://www.stopvaw.org/"
                       target="_blank"
+                      ref="noreferrer"
                     >
                       Stop Violence Against Women
                     </a>
@@ -228,6 +233,7 @@ var Resources = React.createClass({
                       className="grey-text text-lighten-3"
                       href="https://www.thehotline.org/"
                       target="_blank"
+                      ref="noreferrer"
                     >
                       Domestic Abuse Support{" "}
                     </a>
