@@ -156,6 +156,7 @@ var Resources = function () {
         </div>
  {/* begin footer */}
  <footer className="page-footer indigo">
+
           <div className="container">
             <div className="row">
               <div className="col l6 s12">
@@ -174,6 +175,7 @@ var Resources = function () {
                       className="grey-text text-lighten-3"
                       href="https://www.helpguide.org/"
                       target="_blank"
+
                     >
                       Help Guide
                     </a>
@@ -183,6 +185,7 @@ var Resources = function () {
                       className="grey-text text-lighten-3"
                       href="https://www.betterhelp.com/"
                       target="_blank"
+
                     >
                       Find Counseling
                     </a>
@@ -192,6 +195,7 @@ var Resources = function () {
                       className="grey-text text-lighten-3"
                       href="https://suicidepreventionlifeline.org/"
                       target="_blank"
+
                     >
                       Suicide Prevention Lifeline
                     </a>
@@ -201,6 +205,7 @@ var Resources = function () {
                       className="grey-text text-lighten-3"
                       href="https://www.cdc.gov/injury/features/stop-bullying/index.html"
                       target="_blank"
+
                     >
                       #StopBullying
                     </a>
@@ -219,6 +224,7 @@ var Resources = function () {
                       className="grey-text text-lighten-3"
                       href="https://www.thehotline.org/"
                       target="_blank"
+
                     >
                       Domestic Abuse Support{" "}
                     </a>
@@ -237,12 +243,10 @@ var Resources = function () {
         {/*end footer */}
         <link
           rel="stylesheet"
+
           href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
       </div>
       );
     };
 
 export default Resources;
-
-
-
