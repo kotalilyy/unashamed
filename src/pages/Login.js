@@ -28,8 +28,7 @@ var Login = function () {
         </div>
       </nav>
       <h1>Login will go here</h1>
-     
-   
+
       <footer className="page-footer indigo">
         <div className="container">
           <div className="row">
