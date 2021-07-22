@@ -12,37 +12,26 @@ var Resources = React.createClass({
         {/* begin nav bar with logo links and login option*/}
         <nav className="nav-wrapper indigo">
           <div className="container">
-            <a href="#" className="brand-logo">
+            <a href="./index" className="brand-logo">
               <img src="./images/handshake.png" width="41px" height="41px" />
               Unashamed
             </a>
-            <a href="#" className="sidenav-trigger" data-target="mobile-links">
+            <a href="./index" className="sidenav-trigger" data-target="mobile-links">
               <i className="material-icons">menu</i>
             </a>
             <ul className="right hide-on-med-and-down">
               <li>
-                <a href="./index.html">Home</a>
+                <a href="./index">Home</a>
               </li>
               <li>
-                <a href="./resources.html">Resources</a>
+                <a href="./resources">Resources</a>
               </li>
               <li>
-                <a href="./login.html">Login</a>
+                <a href="./login">Login</a>
               </li>
             </ul>
           </div>
         </nav>
-        <ul className="sidenav" id="mobile-links">
-          <li>
-            <a href="#">Home</a>
-          </li>
-          <li>
-            <a href="#">Resources</a>
-          </li>
-          <li>
-            <a href="#">Login</a>
-          </li>
-        </ul>
         {/* end nav*/}
 
         {/* begin card with resources information*/}
