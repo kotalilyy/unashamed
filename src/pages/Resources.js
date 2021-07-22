@@ -34,7 +34,7 @@ var Resources = function () {
               <section className="resources">
                 <div>
                   <div>
-                    <a href="http://www.mhresources.org/" target="">
+                    <a href="http://www.mhresources.org/" target="_blank">
                       Mental Health Resources (MHR)
                     </a>
                     <p>
@@ -44,7 +44,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.nami.org/Home" target="">
+                    <a href="https://www.nami.org/Home" target="_blank">
                       National Alliance on Mental Illness (NAMI)
                     </a>
                     <p>
@@ -55,7 +55,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.who.int/" target="">
+                    <a href="https://www.who.int/" target="_blank">
                       World Health Organization (WHO) - Project Atlas
                     </a>
                     <p>
@@ -70,7 +70,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.hhs.gov/" target="">
+                    <a href="https://www.hhs.gov/" target="_blank">
                       U.S. Department of Health & Human Services -- Mental
                       Health
                     </a>
@@ -86,7 +86,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="http://www.freedomfromfear.org/" target="">
+                    <a href="http://www.freedomfromfear.org/" target="_blank">
                       Freedom from Fear
                     </a>
                     <p>
@@ -96,7 +96,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.autismspeaks.org/" target="">
+                    <a href="https://www.autismspeaks.org/" target="_blank">
                       Autism Speaks
                     </a>
                     <p>
@@ -107,7 +107,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="http://www.glbtnationalhelpcenter.org/" target="">
+                    <a href="http://www.glbtnationalhelpcenter.org/" target="_blank">
                       LGBT National Help Center
                     </a>
                     <p>
@@ -119,7 +119,7 @@ var Resources = function () {
                   <div>
                     <a
                       href="https://screening.mentalhealthscreening.org/Military_NDSD"
-                      target=""
+                      target="_blank"
                     >
                       MindWise — Military and Family Screenings
                     </a>
@@ -134,7 +134,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.minorityhealth.hhs.gov/" target="">
+                    <a href="https://www.minorityhealth.hhs.gov/" target="_blank">
                       U.S. Department of Health & Human Services — Office of
                       Minority Health
                     </a>
@@ -145,7 +145,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.nia.nih.gov/health" target="">
+                    <a href="https://www.nia.nih.gov/health" target="_blank">
                       National Institute on Aging — Health Information
                     </a>
                     <p>
@@ -172,7 +172,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="http://www.jedfoundation.org/" target="">
+                    <a href="http://www.jedfoundation.org/" target="_blank">
                       The Jed Foundation
                     </a>
                     <p>
@@ -228,7 +228,7 @@ var Resources = function () {
             <span className="black-text">
               <section className="hotlines">
                 <div>
-                  <a href="https://www.safehorizon.org/" target="">
+                  <a href="https://www.safehorizon.org/" target="_blank">
                     Safe Horizon
                   </a>
                   <p>
@@ -238,7 +238,7 @@ var Resources = function () {
                   </p>
                 </div>
                 <div>
-                  <a href="https://suicidepreventionlifeline.org/" target="">
+                  <a href="https://suicidepreventionlifeline.org/" target="_blank">
                     National Suicide Prevention Lifeline
                   </a>
                   <p>
@@ -248,7 +248,7 @@ var Resources = function () {
                   </p>
                 </div>
                 <div>
-                  <a href="https://teenhealthandwellness.com/" target="">
+                  <a href="https://teenhealthandwellness.com/" target="_blank">
                     Teen Health & Wellness
                   </a>
                   <p>
@@ -257,7 +257,7 @@ var Resources = function () {
                   </p>
                 </div>
                 <div>
-                  <a href="https://www.thehotline.org/" target="">
+                  <a href="https://www.thehotline.org/" target="_blank">
                     National Domestic Violence Hotline
                   </a>
                   <p>
@@ -266,7 +266,7 @@ var Resources = function () {
                   </p>
                 </div>
                 <div>
-                  <a href="https://www.veteranscrisisline.net/" target="">
+                  <a href="https://www.veteranscrisisline.net/" target="_blank">
                     Veterans Crisis Line
                   </a>
                   <p>
@@ -275,7 +275,7 @@ var Resources = function () {
                   </p>
                 </div>
                 <div>
-                  <a href="https://www.crisistextline.org/" target="">
+                  <a href="https://www.crisistextline.org/" target="_blank">
                     Crisis Text Line
                   </a>
                   <p>
@@ -286,14 +286,14 @@ var Resources = function () {
                 <div>
                   <a
                     href="https://www.glbthotline.org/national-hotline.html"
-                    target=""
+                    target="_blank"
                   >
                     LGBT National Hotline
                   </a>
                   <p>1-888-843-4564</p>
                 </div>
                 <div>
-                  <a href="https://www.nationaleatingdisorders.org/" target="">
+                  <a href="https://www.nationaleatingdisorders.org/" target="_blank">
                     National Eating Disorders Association (NEDA){" "}
                   </a>
                   <p>Helpline 1-800-931-2237 </p>
@@ -301,14 +301,14 @@ var Resources = function () {
                 <div>
                   <a
                     href="https://www.samhsa.gov/find-help/disaster-distress-helpline"
-                    target=""
+                    target="_blank"
                   >
                     SAMHSA Disaster Distress Helpline
                   </a>
                   <p>1-800-985-5990 or Text "TalkWithUs" to 66746 </p>
                 </div>
                 <div>
-                  <a href="https://www.childhelp.org/hotline/" target="">
+                  <a href="https://www.childhelp.org/hotline/" target="_blank">
                     Childhelp National Child Abuse Hotline
                   </a>
                   <p>1-800-4-A-Child or 1-800-422-4453 </p>
