@@ -9,7 +9,7 @@
 
 ## Description
 
-An inspirational blog created to assure people who are struggling with mental illness to not be ashamed to ask for help. It provides a collection of resources for people seeking to improve their Mental Health.
+A website that provides resources and tools to help you better your mental health. It has an inspirational blog where users can sign in, add, edit and delete comments. Our website also offers reviews of local therapists in the area. We hope to des-stigmatize mental illness, connect people struggling to helpful resources, and encourage people to never be afraid to seek help. Never be afraid to better your mental health - be unashamed!
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ npm start
 
 ## Contributions
 
-[Sharee Osbourne](https://github.com/ShareeO)
+[Sharee Osborn](https://github.com/ShareeO)
 
 [Brian Munoz](https://github.com/BMunoz87)
 
@@ -62,7 +62,7 @@ npm start
 
 Email us with your questions! 
 
-Sharee Osbourne - selena74354@gmail.com 
+Sharee Osborn - selena74354@gmail.com 
 
 Brian Munoz - brianemunoz@outlook.com
 
