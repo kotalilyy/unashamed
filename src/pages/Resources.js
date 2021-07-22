@@ -6,7 +6,7 @@ var Resources = function () {
     <div>
       <nav className="nav-wrapper indigo">
         <div className="container">
-          <a href="#" className="brand-logo">
+          <a href="/" className="brand-logo">
             <img src="./images/handshake.png" width="41px" height="41px" />
             Unashamed
           </a>
@@ -113,7 +113,7 @@ var Resources = function () {
                     <p>
                       The LGBT National Help Center provides an online
                       peer-support chat as well as free, confidential counseling
-                      over the phone for the GLBT community.
+                      over the phone for the LGBT community.
                     </p>
                   </div>
                   <div>

@@ -5,7 +5,7 @@ var Home = function () {
     <div>
       <nav className="nav-wrapper indigo">
         <div className="container">
-          <a href="#" className="brand-logo">
+          <a href="/" className="brand-logo">
             <img src="./images/handshake.png" width="41px" height="41px" />
             Unashamed
           </a>
@@ -37,7 +37,7 @@ var Home = function () {
         </li>
       </ul>
       <center>
-        <img src="./images/blog1.png" width="50%" height="50%" />
+        <img src="./images/unashamed.png"></img>
       </center>
       <footer className="page-footer indigo">
         <div className="container">

@@ -8,7 +8,7 @@ var Login = function () {
         <title>Unashamed</title>
         <nav className="nav-wrapper indigo">
           <div className="container">
-            <a href="#" className="brand-logo">
+            <a href="/" className="brand-logo">
               <img src="./images/handshake.png" width="41px" height="41px" />
               Unashamed
             </a>
@@ -28,6 +28,7 @@ var Login = function () {
             </ul>
           </div>
         </nav>
+        <h1>Login will go here</h1>
         <ul className="sidenav" id="mobile-links">
           <li>
             <a href="#">Home</a>
