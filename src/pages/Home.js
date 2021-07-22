@@ -9,7 +9,7 @@ var Home = function () {
             <img src="./images/handshake.png" width="41px" height="41px" />
             Unashamed
           </a>
-          <a href="#" className="sidenav-trigger" data-target="mobile-links">
+          <a href="./" className="sidenav-trigger" data-target="mobile-links">
             <i className="material-icons">menu</i>
           </a>
           <ul className="right hide-on-med-and-down">
@@ -25,19 +25,11 @@ var Home = function () {
           </ul>
         </div>
       </nav>
-      <ul className="sidenav" id="mobile-links">
-        <li>
-          <a href="#">Home</a>
-        </li>
-        <li>
-          <a href="#">Resources</a>
-        </li>
-        <li>
-          <a href="#">Login</a>
-        </li>
-      </ul>
+
       <center>
-        <img src="./images/unashamed.png"></img>
+        <h1>
+          <img src="./images/unashamed.png"></img>
+        </h1>
       </center>
       <footer className="page-footer indigo">
         <div className="container">
@@ -46,7 +38,6 @@ var Home = function () {
               <h5 className="white-text">
                 When it comes to your mental health
               </h5>
-              <h5></h5>
               <h5>Never be afraid</h5>
               <h5>Remain Unashamed</h5>
               <p className="grey-text text-lighten-4" />
@@ -104,7 +95,7 @@ var Home = function () {
                     href="https://www.tethr.men/"
                     target="_blank"
                   >
-                    Support Community for Men
+                    Community Support for Men
                   </a>
                 </li>
                 <lil>

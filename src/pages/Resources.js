@@ -10,7 +10,7 @@ var Resources = function () {
             <img src="./images/handshake.png" width="41px" height="41px" />
             Unashamed
           </a>
-          <a href="#" className="sidenav-trigger" data-target="mobile-links">
+          <a href="./" className="sidenav-trigger" data-target="mobile-links">
             <i className="material-icons">menu</i>
           </a>
           <ul className="right hide-on-med-and-down">
@@ -34,7 +34,7 @@ var Resources = function () {
               <section className="resources">
                 <div>
                   <div>
-                    <a href="http://www.mhresources.org/" target="">
+                    <a href="http://www.mhresources.org/" target="_blank">
                       Mental Health Resources (MHR)
                     </a>
                     <p>
@@ -44,7 +44,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.nami.org/Home" target="">
+                    <a href="https://www.nami.org/Home" target="_blank">
                       National Alliance on Mental Illness (NAMI)
                     </a>
                     <p>
@@ -55,7 +55,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.who.int/" target="">
+                    <a href="https://www.who.int/" target="_blank">
                       World Health Organization (WHO) - Project Atlas
                     </a>
                     <p>
@@ -70,7 +70,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.hhs.gov/" target="">
+                    <a href="https://www.hhs.gov/" target="_blank">
                       U.S. Department of Health & Human Services -- Mental
                       Health
                     </a>
@@ -86,7 +86,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="http://www.freedomfromfear.org/" target="">
+                    <a href="http://www.freedomfromfear.org/" target="_blank">
                       Freedom from Fear
                     </a>
                     <p>
@@ -96,7 +96,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.autismspeaks.org/" target="">
+                    <a href="https://www.autismspeaks.org/" target="_blank">
                       Autism Speaks
                     </a>
                     <p>
@@ -107,7 +107,10 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="http://www.glbtnationalhelpcenter.org/" target="">
+                    <a
+                      href="http://www.glbtnationalhelpcenter.org/"
+                      target="_blank"
+                    >
                       LGBT National Help Center
                     </a>
                     <p>
@@ -119,7 +122,7 @@ var Resources = function () {
                   <div>
                     <a
                       href="https://screening.mentalhealthscreening.org/Military_NDSD"
-                      target=""
+                      target="_blank"
                     >
                       MindWise — Military and Family Screenings
                     </a>
@@ -134,7 +137,10 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.minorityhealth.hhs.gov/" target="">
+                    <a
+                      href="https://www.minorityhealth.hhs.gov/"
+                      target="_blank"
+                    >
                       U.S. Department of Health & Human Services — Office of
                       Minority Health
                     </a>
@@ -145,7 +151,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="https://www.nia.nih.gov/health" target="">
+                    <a href="https://www.nia.nih.gov/health" target="_blank">
                       National Institute on Aging — Health Information
                     </a>
                     <p>
@@ -172,7 +178,7 @@ var Resources = function () {
                     </p>
                   </div>
                   <div>
-                    <a href="http://www.jedfoundation.org/" target="">
+                    <a href="http://www.jedfoundation.org/" target="_blank">
                       The Jed Foundation
                     </a>
                     <p>
@@ -222,172 +228,17 @@ var Resources = function () {
           </div>
         </div>
       </div>
-      <div className="row">
-        <div className="col s12">
-          <div className="card-panel deep-purple lighten-4">
-            <span className="black-text">
-              <section className="hotlines">
-                <div>
-                  <a href="https://www.safehorizon.org/" target="">
-                    Safe Horizon
-                  </a>
-                  <p>
-                    For domestic violence victims, sexual assault victims and
-                    crime victims to receive 24/7 free crisis counseling and
-                    safety planning.
-                  </p>
-                </div>
-                <div>
-                  <a href="https://suicidepreventionlifeline.org/" target="">
-                    National Suicide Prevention Lifeline
-                  </a>
-                  <p>
-                    Call 1-800-273-TALK to receive confidential, toll-free, 24/7
-                    suicide prevention counseling and local referrals. En
-                    español 1-888-628-9454
-                  </p>
-                </div>
-                <div>
-                  <a href="https://teenhealthandwellness.com/" target="">
-                    Teen Health & Wellness
-                  </a>
-                  <p>
-                    A list of hotlines for teens facing issues ranging from
-                    bullying and abuse to drugs and eating disorders.
-                  </p>
-                </div>
-                <div>
-                  <a href="https://www.thehotline.org/" target="">
-                    National Domestic Violence Hotline
-                  </a>
-                  <p>
-                    Call 1-800-799-SAFE for 24/7 counseling and support to
-                    victims of domestic violence and abuse.
-                  </p>
-                </div>
-                <div>
-                  <a href="https://www.veteranscrisisline.net/" target="">
-                    Veterans Crisis Line
-                  </a>
-                  <p>
-                    Call 1-800-273-8255 and press 1 or text to 838255 for
-                    confidential help for veterans and their families.
-                  </p>
-                </div>
-                <div>
-                  <a href="https://www.crisistextline.org/" target="">
-                    Crisis Text Line
-                  </a>
-                  <p>
-                    Text “HELLO” to 741741 Text HOME to 741741 to connect with a
-                    Crisis Counselor
-                  </p>
-                </div>
-                <div>
-                  <a
-                    href="https://www.glbthotline.org/national-hotline.html"
-                    target=""
-                  >
-                    LGBT National Hotline
-                  </a>
-                  <p>1-888-843-4564</p>
-                </div>
-                <div>
-                  <a href="https://www.nationaleatingdisorders.org/" target="">
-                    National Eating Disorders Association (NEDA){" "}
-                  </a>
-                  <p>Helpline 1-800-931-2237 </p>
-                </div>
-                <div>
-                  <a
-                    href="https://www.samhsa.gov/find-help/disaster-distress-helpline"
-                    target=""
-                  >
-                    SAMHSA Disaster Distress Helpline
-                  </a>
-                  <p>1-800-985-5990 or Text "TalkWithUs" to 66746 </p>
-                </div>
-                <div>
-                  <a href="https://www.childhelp.org/hotline/" target="">
-                    Childhelp National Child Abuse Hotline
-                  </a>
-                  <p>1-800-4-A-Child or 1-800-422-4453 </p>
-                </div>
-              </section>
-            </span>
-          </div>
-        </div>
-        {/* begin footer */}
-        <footer className="page-footer indigo">
-          <div className="container">
-            <div className="row">
-              <div className="col l6 s12">
-                <h5 className="white-text">
-                  When it comes to your mental health
-                </h5>
-                <h5></h5>
-                <h5>Never be afraid</h5>
-                <h5>Remain Unashamed</h5>
-                <p className="grey-text text-lighten-4" />
-              </div>
-              <div className="col l4 offset-l2 s12">
-                <ul>
-                  <li>
-                    <a
-                      className="grey-text text-lighten-3"
-                      href="https://www.helpguide.org/"
-                      target="_blank"
-                    >
-                      Help Guide
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      className="grey-text text-lighten-3"
-                      href="https://www.betterhelp.com/"
-                      target="_blank"
-                    >
-                      Find Counseling
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      className="grey-text text-lighten-3"
-                      href="https://suicidepreventionlifeline.org/"
-                      target="_blank"
-                    >
-                      Suicide Prevention Lifeline
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      className="grey-text text-lighten-3"
-                      href="https://www.cdc.gov/injury/features/stop-bullying/index.html"
-                      target="_blank"
-                    >
-                      #StopBullying
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      className="grey-text text-lighten-3"
-                      href="https://www.stopvaw.org/"
-                      target="_blank"
-                    >
-                      Stop Violence Against Women
-                    </a>
-                  </li>
-                  <lil>
-                    <a
-                      className="grey-text text-lighten-3"
-                      href="https://www.thehotline.org/"
-                      target="_blank"
-                    >
-                      Domestic Abuse Support{" "}
-                    </a>
-                  </lil>
-                </ul>
-              </div>
+      {/* begin footer */}
+      <footer className="page-footer indigo">
+        <div className="container">
+          <div className="row">
+            <div className="col l6 s12">
+              <h5 className="white-text">
+                When it comes to your mental health
+              </h5>
+              <h5>Never be afraid</h5>
+              <h5>Remain Unashamed</h5>
+              <p className="grey-text text-lighten-4" />
             </div>
             <div className="col l4 offset-l2 s12">
               <ul>
@@ -442,7 +293,7 @@ var Resources = function () {
                     href="https://www.tethr.men/"
                     target="_blank"
                   >
-                    Support Community for Men
+                    Community Support for Men
                   </a>
                 </li>
                 <lil>
@@ -457,13 +308,13 @@ var Resources = function () {
               </ul>
             </div>
           </div>
-        </footer>
-        {/*end footer */}
-        <link
-          rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
-        />
-      </div>
+        </div>
+      </footer>
+      {/*end footer */}
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+      />
     </div>
   );
 };
