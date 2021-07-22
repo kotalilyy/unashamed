@@ -1,6 +1,6 @@
 import React from "react";
 
-var NewComponent = React.createClass({
+var Resources = React.createClass({
   render: function () {
     return (
       <div>
