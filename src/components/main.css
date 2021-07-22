@@ -44,6 +44,45 @@ body.dark {
   background-color: #121212;
 }
 
+/* Start resources */
+.resources {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.resources div{
+  margin-bottom: 20px;
+  padding: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.resources h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+/* Start hotlines */
+.hotlines {
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #d9dcd6;
+}
+
+.hotlines div {
+  margin-bottom: 32px;
+  color: #2589bd;
+}
+
+.hotlines h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 .checkbox {
   opacity: 0;
   position: absolute;
