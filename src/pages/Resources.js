@@ -468,7 +468,6 @@ var Resources = function () {
   );
 };
 {
-  ("}");
 }
 
 export default Resources;

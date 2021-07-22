@@ -1,46 +1,45 @@
 import React from "react";
 
-
 var Login = function () {
-    return (
-      <div>
-        <link rel="stylesheet" href="../components/main.css" />
-        <title>Unashamed</title>
-        <nav className="nav-wrapper indigo">
-          <div className="container">
-            <a href="/" className="brand-logo">
-              <img src="./images/handshake.png" width="41px" height="41px" />
-              Unashamed
-            </a>
-            <a href="#" className="sidenav-trigger" data-target="mobile-links">
-              <i className="material-icons">menu</i>
-            </a>
-            <ul className="right hide-on-med-and-down">
-              <li>
-                <a href="./">Home</a>
-              </li>
-              <li>
-                <a href="./resources">Resources</a>
-              </li>
-              <li>
-                <a href="./login">Login</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-        <h1>Login will go here</h1>
-        <ul className="sidenav" id="mobile-links">
-          <li>
-            <a href="#">Home</a>
-          </li>
-          <li>
-            <a href="#">Resources</a>
-          </li>
-          <li>
-            <a href="#">Login</a>
-          </li>
-        </ul>
-        <footer className="page-footer indigo">
+  return (
+    <div>
+      <link rel="stylesheet" href="../components/main.css" />
+      <title>Unashamed</title>
+      <nav className="nav-wrapper indigo">
+        <div className="container">
+          <a href="/" className="brand-logo">
+            <img src="./images/handshake.png" width="41px" height="41px" />
+            Unashamed
+          </a>
+          <a href="#" className="sidenav-trigger" data-target="mobile-links">
+            <i className="material-icons">menu</i>
+          </a>
+          <ul className="right hide-on-med-and-down">
+            <li>
+              <a href="./">Home</a>
+            </li>
+            <li>
+              <a href="./resources">Resources</a>
+            </li>
+            <li>
+              <a href="./login">Login</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <h1>Login will go here</h1>
+      <ul className="sidenav" id="mobile-links">
+        <li>
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a href="#">Resources</a>
+        </li>
+        <li>
+          <a href="#">Login</a>
+        </li>
+      </ul>
+      <footer className="page-footer indigo">
         <div className="container">
           <div className="row">
             <div className="col l6 s12">
