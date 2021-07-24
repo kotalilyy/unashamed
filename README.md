@@ -10,6 +10,9 @@
 
 An inspirational website that provides resources to help users that may be struggling to improve their mental health. We hope to de-stigmatize mental illness and influence people to never be afraid to seek help. When it comes to your mental health, remain unashamed.
 
+![proj3website copy](https://user-images.githubusercontent.com/77229281/126857483-48265987-6504-44fc-8fb3-7f14c9541a87.png)
+
+
 ## Table of Contents
 
   - [Table of Contents](#table-of-contents)
