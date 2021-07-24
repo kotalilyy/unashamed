@@ -8,7 +8,7 @@
 
 ## Description
 
-An inspirational website that provides resources to help users that may be struggling to improve your mental health.  We hope to de-stigmatize mental illness, connect and encourage people to never be afraid to seek help. When it comes to your mental health, remain unashamed.
+An inspirational website that provides resources to help users that may be struggling to improve their mental health. We hope to de-stigmatize mental illness and influence people to never be afraid to seek help. When it comes to your mental health, remain unashamed.
 
 ## Table of Contents
 
