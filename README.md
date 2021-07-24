@@ -6,10 +6,9 @@
 
 ![handshake](https://user-images.githubusercontent.com/77229281/126027509-98be26ec-e3ac-4cab-8575-4c39b9910030.png)
 
-
 ## Description
 
-A website that provides resources and tools to help you better your mental health. It has an inspirational blog where users can sign in, add, edit and delete comments. Our website also offers reviews of local therapists in the area. We hope to des-stigmatize mental illness, connect people struggling to helpful resources, and encourage people to never be afraid to seek help. Never be afraid to better your mental health - be unashamed!
+An inspirational website that provides resources to help users that may be struggling to improve your mental health.  We hope to de-stigmatize mental illness, connect and encourage people to never be afraid to seek help. When it comes to your mental health, remain unashamed.
 
 ## Table of Contents
 
@@ -24,7 +23,7 @@ A website that provides resources and tools to help you better your mental healt
 
 ## Live Link
 
-[Live Link](https://unashamed1.herokuapp.com/) deployed to Heroku.
+[Live Link](https://unashamed1.herokuapp.com/) deployed to [Heroku](https://www.heroku.com/).
 
 ## Technologies Used
 
@@ -36,7 +35,7 @@ A website that provides resources and tools to help you better your mental healt
 
 ## Installation
 
-Install React! 
+Install React 
 
 ```bash
 npx create-react-app my-app
@@ -50,17 +49,19 @@ npm start
 
 ## Contributions
 
+[Dakota Nelson](https://github.com/kotalilyy)
+
 [Sharee Osborn](https://github.com/ShareeO)
 
 [Brian Munoz](https://github.com/BMunoz87)
 
 [Ryan Lynn Rosas](https://github.com/rltrosas88)
 
-[Dakota Nelson](https://github.com/kotalilyy)
-
 ## Questions
 
 Email us with your questions! 
+
+Dakota Nelson - kotalilyy@gmail.com
 
 Sharee Osborn - selena74354@gmail.com 
 
