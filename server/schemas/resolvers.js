@@ -1,18 +1,28 @@
-const { Book } = require('../models');
+const { User , Blog } = require('../models');
 
 const resolvers = {
   Query: {
-    books: async () => {
-      return Book.find();
+    me: async (parent, args, context) => {
+      if (context.user) {
+        const userData = await User.findOne({ _id: context.user._id });
+
+        return userData;
+      }
+
+      throw new AuthenticationError("Not logged in");
     },
-    book: async (parent, { title }) => {
-      return Book.findOne({ title });
-    }
+
+    blogs: async (parent, args, context) => {
+      const blogData = await Blog.findAll();
+      return blogData
+    },
   },
+
+  
   Mutation: {
-    addBook: async (parent, args) => {
-      const book = await Book.create(args);
-      return book;
+    addBlog: async (parent, args) => {
+      const blog = await Blog.create(args);
+      return blog;
     }
   }
 };

@@ -8,16 +8,19 @@ const typeDefs = gql`
     friends: [User]
   }
 
-  type Thought {
-    thoughtText: String
+  type Blog {
+    blogText: String
     createdAt: String
     username: String
     reactionCount: Int
-    reactions: [Reaction]
   }
 
+  type Query {
+    me: User
+    blogs: [Blog]
+  }
   type Mutation {
-    addBook(title: String!, author: String!, pages: Int!): Book
+    addBlog(title: String!, description: String!, userId: ID!): Blog
   }
 `;
 
