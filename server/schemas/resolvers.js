@@ -1,3 +1,4 @@
+const { AuthenticationError } = require("apollo-server-express");
 const { User , Blog } = require('../models');
 
 const resolvers = {
@@ -9,7 +10,7 @@ const resolvers = {
         return userData;
       }
 
-      throw new AuthenticationError("Not logged in");
+      throw new AuthenticatinError("Not logged in");
     },
 
     blogs: async (parent, args, context) => {
@@ -24,7 +25,20 @@ const resolvers = {
       const blog = await Blog.create(args);
       return blog;
     }
+  },
+
+  removeBlog: async (parent, args, context) => {
+    const updatedUser = await User.findOneAndUpdate(
+      { _id: context.user._id },
+      { $pull: { savedBlogs: { bookId: args.blogId } } },
+      { new: true }
+    );
+    if (!updatedUser) {
+      throw new AuthenticationError("Could not delete blog");
+    }
+    return updatedUser;
   }
+
 };
 
 module.exports = resolvers;
