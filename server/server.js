@@ -20,6 +20,10 @@ const server = new ApolloServer({
 });
 server.applyMiddleware({ app });
 
+app.get("/", (req, res) => {
+  res.send ("hello kota")
+})
+
 //call res.send with a JavaScript object containing a token
 app.post("/login", (req, res) => {
   // we are getting our username and password back in the request body
