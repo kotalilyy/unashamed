@@ -4,7 +4,7 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "ross": "node server.js",
+        "dev": "node server.js",
         "watch": "nodemon server.js"
     },
     "keywords": [],
