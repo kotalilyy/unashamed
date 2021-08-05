@@ -72,6 +72,4 @@ Brian Munoz - brianemunoz@outlook.com
 
 Ryan Lynn Rosas - rltrosas88@gmail.com
 
-Dakota Nelson - kotalilyy@gmail.com
-
 _Happy Coding!_

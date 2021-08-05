@@ -20,6 +20,7 @@ const userSchema = new Schema(
 			type: String,
 			required: true,
 		},
+   // savedBooks: [bookSchema],
 	},
 	// set this to use virtual below
 	{

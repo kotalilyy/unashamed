@@ -14,27 +14,27 @@ app.use(express.json());
 
 // Apollo Server
 const server = new ApolloServer({
-	typeDefs,
-	resolvers,
-	// context: authMiddleware
+  typeDefs,
+  resolvers,
+  // context: authMiddleware
 });
 server.applyMiddleware({ app });
 
 //call res.send with a JavaScript object containing a token
 app.post("/login", (req, res) => {
-	// we are getting our username and password back in the request body
-	console.log("  ---", req.body);
+  // we are getting our username and password back in the request body
+  console.log("  ---", req.body);
 
-	res.send({
-		token: "test123",
-	});
+  res.send({
+    token: "test123",
+  });
 });
 
 app.use(cors());
 
 //run the server on port 8080
 db.once("open", () => {
-	app.listen(8080, () =>
-		console.log("API is running on http://localhost:8080/login")
-	);
+  app.listen(8080, () =>
+    console.log("API is running on http://localhost:8080/login")
+  );
 });
