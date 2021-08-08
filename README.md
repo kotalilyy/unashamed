@@ -18,7 +18,6 @@ An inspirational website that provides resources to help users that may be strug
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
   - [Technologies Used](#technologies-used)
-  - [Presentation](#presentation)
   - [Installation](#installation)
   - [License](#license)
   - [Contributions](#contributions)
@@ -31,10 +30,6 @@ An inspirational website that provides resources to help users that may be strug
 ## Technologies Used
 
 [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [GraphQL](https://graphql.org/), [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://mongoosejs.com/), [JavaScript](https://www.javascript.com/), [Bootstrap](https://getbootstrap.com/) [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [Materialize](https://materializecss.com/).
-
-## Presentation
-
-[Presentation](https://docs.google.com/presentation/d/1dk8mYts0dUHOkhnKTmkXE_HKpDe0P1lLNDQyOzpWKQ0/edit?usp=sharing)
 
 ## Installation
 
