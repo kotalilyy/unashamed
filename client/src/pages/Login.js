@@ -1,4 +1,6 @@
 import React from "react";
+import Signup from "../components/Signup/Signup";
+import LoginForm from "../components/Login/Login";
 
 var Login = function () {
   return (
@@ -27,7 +29,20 @@ var Login = function () {
           </ul>
         </div>
       </nav>
-      <h1>Login will go here</h1>
+
+      <div className="container">
+        <div className="row">
+          <div className="col s6">
+            <h2>Login Here</h2>
+            <LoginForm />
+          </div>
+
+          <div className="col s6">
+            <h2> Signup Here</h2>
+            <Signup />
+          </div>
+        </div>
+      </div>
 
       <footer className="page-footer indigo">
         <div className="container">
@@ -36,11 +51,11 @@ var Login = function () {
               <h5 className="white-text">
                 When it comes to your mental health
               </h5>
-              <h5></h5>
               <h5>Never be afraid</h5>
               <h5>Remain Unashamed</h5>
               <p className="grey-text text-lighten-4" />
             </div>
+
             <div className="col l4 offset-l2 s12">
               <ul>
                 <li>
@@ -97,7 +112,7 @@ var Login = function () {
                     Support Community for Men
                   </a>
                 </li>
-                <lil>
+                <li>
                   <a
                     className="grey-text text-lighten-3"
                     href="https://www.thehotline.org/"
@@ -105,11 +120,12 @@ var Login = function () {
                   >
                     Domestic Abuse Support{" "}
                   </a>
-                </lil>
+                </li>
               </ul>
             </div>
           </div>
         </div>
+      
         <div className="footer-copyright">
           <div className="container">
             © 2021 Copyright
@@ -118,6 +134,7 @@ var Login = function () {
         </div>
       </footer>
       {/*end footer */}
+      
       <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"

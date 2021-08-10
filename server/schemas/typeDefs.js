@@ -20,6 +20,8 @@ const typeDefs = gql`
     blogs: [Blog]
   }
   type Mutation {
+    login(email:String!, password: String!): Auth
+    addUser(email: String!, password: String!): Auth
     addBlog(title: String!, description: String!, userId: ID!): Blog
   }
 `;

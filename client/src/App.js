@@ -1,18 +1,33 @@
 import React, { useState } from "react";
 import "./App.css";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { ApolloProvider } from '@apollo/react-hooks';
+import ApolloClient from "apollo-boost";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Preferences from "./components/Preferences/Preferences";
 import Home from "./pages/Home";
 import Resources from "./pages/Resources";
-import Login from "./components/Login/Login";
+import Login from "./pages/Login";
+
+const client = new ApolloClient({
+  request: operation => {
+    const token = localStorage.getItem('id_token');
+
+    operation.setContext({
+      headers: {
+        authorization: token ? `Bearer ${token}` : ''
+      }
+    });
+  },
+  uri: '/graphql'
+});
 
 function App() {
   //const [token, setToken] = useState();
   //if(!token) {
   //return <Login setToken={setToken} />
 
-  return (
+  return (<ApolloProvider client={client}>
     <div className="wrapper">
       <BrowserRouter>
         <Switch>
@@ -34,6 +49,8 @@ function App() {
         </Switch>
       </BrowserRouter>
     </div>
+
+  </ApolloProvider>
   );
 }
 
