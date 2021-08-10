@@ -20,11 +20,11 @@ server.applyMiddleware({ app });
 
 
 //call res.send with a JavaScript object containing a token
-app.use('/login', (req, res) => {
-    res.send({
-      token: 'test123'
-    });
-  });
+// app.use('/login', (req, res) => {
+//     res.send({
+//       token: 'test123'
+//     });
+//   });
 
   app.use(cors());
 

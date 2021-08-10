@@ -15,6 +15,11 @@ const blogSchema = new Schema({
     type: String,
     required: true,
   },
+  blogId: {
+    type: String,
+    required: true,
+  },
 });
+
 
 module.exports = blogSchema;

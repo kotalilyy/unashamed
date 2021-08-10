@@ -27,17 +27,17 @@ const resolvers = {
     }
   },
 
-  removeBlog: async (parent, args, context) => {
-    const updatedUser = await User.findOneAndUpdate(
-      { _id: context.user._id },
-      { $pull: { savedBlogs: { bookId: args.blogId } } },
-      { new: true }
-    );
-    if (!updatedUser) {
-      throw new AuthenticationError("Could not delete blog");
-    }
-    return updatedUser;
-  }
+  // removeBlog: async (parent, args, context) => {
+  //   const updatedUser = await Blog.findOneAndUpdate(
+  //     { _id: context.args._id },
+  //     { $pull: { savedBlogs: { blogId: args.blogId } } },
+  //     { new: true }
+  //   );
+  //   if (!updatedUser) {
+  //     throw new AuthenticationError("Could not delete blog");
+  //   }
+  //   return updatedUser;
+  // }
 
 };
 

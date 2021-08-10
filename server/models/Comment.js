@@ -1,5 +1,5 @@
-const { Model, DataTypes } = require("sequelize");
-const sequelize = require("../config/connection");
+const { Schema } = require('mongoose');
+// const sequelize = require("../config/connection");
 
 class Comment extends Model {
 }
@@ -36,7 +36,7 @@ Comment.init(
     },
     },
     {
-    sequelize,
+    // sequelize,
     freezeTableName: true,
     underscored: true,
     modelName: "comment",
