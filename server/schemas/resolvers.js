@@ -1,5 +1,5 @@
 const { AuthenticationError } = require("apollo-server-express");
-const { User , Blog } = require('../models');
+const { User, Blog } = require('../models');
 
 const resolvers = {
   Query: {
@@ -10,7 +10,7 @@ const resolvers = {
         return userData;
       }
 
-      throw new AuthenticatinError("Not logged in");
+      throw new AuthenticationError("Not logged in");
     },
 
     blogs: async (parent, args, context) => {
