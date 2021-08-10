@@ -98,7 +98,7 @@ var Home = function () {
                     Community Support for Men
                   </a>
                 </li>
-                <lil>
+                <li>
                   <a
                     className="grey-text text-lighten-3"
                     href="https://www.thehotline.org/"
@@ -106,7 +106,7 @@ var Home = function () {
                   >
                     Domestic Abuse Support{" "}
                   </a>
-                </lil>
+                </li>
               </ul>
             </div>
           </div>

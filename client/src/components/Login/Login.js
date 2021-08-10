@@ -11,6 +11,7 @@ const Login = () => {
   const [validated] = useState(false);
   const [showAlert, setShowAlert] = useState(false);
 
+  // eslint-disable-next-line no-unused-vars
   const [login, {error}] = useMutation(LOGIN_USER);
 
   const handleInputChange = (event) => {
