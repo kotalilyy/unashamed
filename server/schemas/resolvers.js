@@ -1,6 +1,8 @@
 const { AuthenticationError } = require("apollo-server-express");
 const { User, Blog } = require('../models');
 
+const { signToken } = require("../utils/auth");
+
 const resolvers = {
   Query: {
     me: async (parent, args, context) => {
@@ -22,7 +24,12 @@ const resolvers = {
   
   Mutation: {
     addUser: async (parent, args) => {
+      
+      console.log("ARGS",args)
+
       const user = await User.create(args);
+
+      console.log("USER",user)
 
       if (!user) {
         throw new AuthenticationError("Could not find user");

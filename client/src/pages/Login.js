@@ -5,7 +5,7 @@ import LoginForm from "../components/Login/Login";
 var Login = function () {
   return (
     <div>
-      <link rel="stylesheet" href="../components/main.css" />
+      {/* <link rel="stylesheet" href="../components/main.css" /> */}
       <title>Unashamed</title>
       <nav className="nav-wrapper indigo">
         <div className="container">
