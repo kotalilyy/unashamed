@@ -6,7 +6,7 @@ var Home = function () {
       <nav className="nav-wrapper indigo">
         <div className="container">
           <a href="/" className="brand-logo">
-            <img src="./images/handshake.png" width="41px" height="41px" />
+            <img src="./images/handshake.png" alt="logo" width="41px" height="41px" />
             Unashamed
           </a>
           <a href="./" className="sidenav-trigger" data-target="mobile-links">
@@ -28,7 +28,7 @@ var Home = function () {
 
       <center>
         <h1>
-          <img src="./images/unashamed.png"></img>
+          <img src="./images/unashamed.png" alt="logo"></img>
         </h1>
       </center>
       <footer className="page-footer indigo">
@@ -114,7 +114,6 @@ var Home = function () {
         <div className="footer-copyright">
           <div className="container">
             © 2021 Copyright
-            <a className="grey-text text-lighten-4 right" href="#!" />
           </div>
         </div>
       </footer>
