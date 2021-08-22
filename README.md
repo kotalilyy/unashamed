@@ -4,24 +4,21 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-![handshake](https://user-images.githubusercontent.com/77229281/126027509-98be26ec-e3ac-4cab-8575-4c39b9910030.png)
+![hand](https://user-images.githubusercontent.com/77229281/130340229-1156721d-fc69-4e12-9e85-550ebd664da9.png)
 
 ## Description
 
 An inspirational website that provides resources to help users that may be struggling to improve their mental health. We hope to de-stigmatize mental illness and influence people to never be afraid to seek help. When it comes to your mental health, remain unashamed.
 
-![proj3website copy](https://user-images.githubusercontent.com/77229281/126857483-48265987-6504-44fc-8fb3-7f14c9541a87.png)
-
+![website](https://user-images.githubusercontent.com/77229281/130340235-c3ee6d5c-b73e-40a7-abde-804ec707792e.png)
 
 ## Table of Contents
 
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
   - [Technologies Used](#technologies-used)
-  - [Installation](#installation)
   - [License](#license)
   - [Contributions](#contributions)
-  - [Questions](#questions)
 
 ## Live Link
 
@@ -29,17 +26,17 @@ An inspirational website that provides resources to help users that may be strug
 
 ## Technologies Used
 
-[React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [GraphQL](https://graphql.org/), [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://mongoosejs.com/), [JavaScript](https://www.javascript.com/), [Bootstrap](https://getbootstrap.com/) [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [Materialize](https://materializecss.com/).
-
-## Installation
-
-Install React 
-
-```bash
-npx create-react-app my-app
-cd my-app 
-npm start
-```
+* React
+*  Node.js
+* Express.js 
+* GraphQL 
+* MongoDB 
+* Mongoose ODM 
+* JavaScript 
+* Bootstrap
+*  Materialize
+*  CSS
+*  HTML
 
 ## License
 
@@ -47,24 +44,11 @@ npm start
 
 ## Contributions
 
-[Dakota Nelson](https://github.com/kotalilyy)
+[Dakota Nelson](https://github.com/kotalilyy) - kotalilyy@gmail.com
 
-[Sharee Osborn](https://github.com/ShareeO)
+[Sharee Osborn](https://github.com/ShareeO) - selena74354@gmail.com 
 
-[Brian Munoz](https://github.com/BMunoz87)
+[Ryan Lynn Rosas](https://github.com/rltrosas88) - rltrosas88@gmail.com
 
-[Ryan Lynn Rosas](https://github.com/rltrosas88)
+[Brian Munoz](https://github.com/BMunoz87) - brianemunoz@outlook.com
 
-## Questions
-
-Email us with your questions! 
-
-Dakota Nelson - kotalilyy@gmail.com
-
-Sharee Osborn - selena74354@gmail.com 
-
-Brian Munoz - brianemunoz@outlook.com
-
-Ryan Lynn Rosas - rltrosas88@gmail.com
-
-_Happy Coding!_
